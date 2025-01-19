@@ -199,3 +199,4 @@
 /home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/obj/Debug/net9.0/RAGrocery.pdb
 /home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/obj/Debug/net9.0/RAGrocery.genruntimeconfig.cache
 /home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/obj/Debug/net9.0/ref/RAGrocery.dll
+/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/obj/Debug/net9.0/RAGrocery.sourcelink.json
