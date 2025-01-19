@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorGSH.Pages
+build_property.RootNamespace = RazorGSH.Pages
+build_property.ProjectDir = /home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Articles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXJ0aWNsZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Articles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXJ0aWNsZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Articles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXJ0aWNsZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Articles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXJ0aWNsZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Articles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXJ0aWNsZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvcC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

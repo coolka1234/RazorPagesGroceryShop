@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/image/apple.jpg",
+      "PackagePath": "staticwebassets/image/apple.jpg"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/image/carrot.png",
+      "PackagePath": "staticwebassets/image/carrot.png"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/image/milk.jpg",
+      "PackagePath": "staticwebassets/image/milk.jpg"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/image/noimage.jpg",
+      "PackagePath": "staticwebassets/image/noimage.jpg"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/upload/676dfb83-7e26-4ed8-acc6-0d9605109db2_carrot.png",
+      "PackagePath": "staticwebassets/upload/676dfb83-7e26-4ed8-acc6-0d9605109db2_carrot.png"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/upload/8adf3352-9ed9-4135-83de-901cdbfebc1e_milk.jpg",
+      "PackagePath": "staticwebassets/upload/8adf3352-9ed9-4135-83de-901cdbfebc1e_milk.jpg"
+    },
+    {
+      "Id": "/home/coolka/projects/web/RazorPagesGroceryShop/RazorAppGSH/wwwroot/upload/cef11d83-a6cd-4c95-92b8-dbfe27eb5f0c_apple.jpg",
+      "PackagePath": "staticwebassets/upload/cef11d83-a6cd-4c95-92b8-dbfe27eb5f0c_apple.jpg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.RAGrocery.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.RAGrocery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.RAGrocery.props",
+      "PackagePath": "build\\RAGrocery.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.RAGrocery.props",
+      "PackagePath": "buildMultiTargeting\\RAGrocery.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RAGrocery.props",
+      "PackagePath": "buildTransitive\\RAGrocery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

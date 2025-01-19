@@ -1,0 +1,81 @@
+﻿@page
+@model RazorGSH.Pages.Shop.IndexModel
+
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <h2>Categories</h2>
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <a href="/Shop">All Products</a>
+                </li>
+                @foreach (var category in Model.Categories)
+                {
+                    <li class="list-group-item">
+                        <a href="/Shop/?id=@category.Id">@category.Name</a>
+                        @* <a asp-page="./Shop/?id=@category.Id">@category.Name</a> *@
+                        @* <a asp-page="./Shop" asp-route-id="@category.Id">@category.Name</a> *@
+                    </li>
+                }
+            </ul>
+        </div>
+        <div class="col-md-9">
+            <h2>Products</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Image</th>
+                        <th>Category</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Articles)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                            <td>
+                                @if (item.ImagePath != null)
+                                {
+                                    <img src="~/@item.ImagePath" style="max-width: 50px; max-height: 50px;" />
+                                }
+                                else
+                                {
+                                    <img src="~/image/noimage.jpg" style="max-width: 50px; max-height: 50px;" />
+                                }
+                            </td>
+                            <td>
+                                <span data-category-id="@item.CategoryId" data-category-name=""></span>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        var categoriesDict = {};
+        @foreach (var cat in Model.Categories)
+        {
+            @:categoriesDict[@cat.Id] = "@cat.Name";
+        }
+
+        var spans = document.querySelectorAll('[data-category-id]');
+        spans.forEach(function (span) {
+            var categoryId = span.getAttribute('data-category-id');
+            var categoryName = categoriesDict[categoryId] || "no category";
+            span.setAttribute('data-category-name', categoryName);
+            span.innerText = categoryName;
+        });
+    </script>
+}
